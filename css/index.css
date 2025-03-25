@@ -144,13 +144,23 @@ nav .name-logo{
 }
 
 .ClustrMaps-img{
-    width: 60%;
-    height:400px;
-    margin-bottom: 40px;
-    margin-top:20px;
+    width: 30%;
+    height:200px;
+    margin-bottom: 20px;
+    margin-top:5px;
     padding-bottom: 30px;
     display: block; 
     margin: 0 auto;
+}
+.list-group-item-text{
+    font-size:15px;
+    margin-top: 10px;
+}
+.text-primary{
+    font-size:15px;
+}
+.text-biography{
+    font-size:15px;
 }
 
 /*footer part*/
