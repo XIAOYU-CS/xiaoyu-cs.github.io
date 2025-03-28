@@ -163,6 +163,16 @@ nav .name-logo{
     font-size:15px;
 }
 
+.panel-info .list-group .list-group-item{
+    height: 40px;
+}
+.panel-info .list-group .list-group-item-text{
+    line-height: 0.18;
+}
+.panel-heading{
+    height:50px;
+    padding:14px 15px;
+}
 /*footer part*/
 /* .footer{
     width: 100%;
